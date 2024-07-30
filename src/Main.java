@@ -29,7 +29,7 @@ public class Main {
         var friend = 19;
         System.out.println("Задача 4");
         System.out.println(friend);
-        friend = friend +2;
+        friend = friend + 2;
         System.out.println(friend);
         friend = friend / 7;
         System.out.println(friend);
@@ -55,7 +55,7 @@ public class Main {
         System.out.println(massDifference);
 
         System.out.println("Задача 7");
-        var remainderMass = twoM % oneM ;
+        var remainderMass = twoM % oneM;
         System.out.println("Разница на " + remainderMass + "кг");
 
         System.out.println("Задача 8.1");
@@ -69,25 +69,4 @@ public class Main {
         System.out.println("Если в компании работает " + people + " человек, то всего " + hours + " часов работы может быть поделено между сотрудниками");
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
